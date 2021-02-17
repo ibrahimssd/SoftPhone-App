@@ -1,0 +1,47 @@
+.soft-phone {
+    width: 300px;
+    max-width: 300px;
+    margin: 15px auto;
+}
+
+.soft-phone span {
+    display: block;
+    color: #f0f0f0;
+    font-size: 0.75em;
+    font-family: monospace;
+}
+
+.soft-phone .row {
+    margin: 15px 0;
+}
+
+
+.soft-phone .form-group input {
+    margin-bottom: 15px;
+}
+
+.btn-number {
+    width: 100%;
+    min-width: 60px;
+    max-width: 80px;
+    height: 70px;
+    min-height: 70px;
+    max-height: 70px;
+}
+
+.btn-info {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: rgba(91, 192, 222, 0.75);
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(91, 192, 222, 0.75);
+  border-radius: 40px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+}
+
+.btn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
